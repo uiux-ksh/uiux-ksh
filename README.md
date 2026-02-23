@@ -43,40 +43,6 @@
 
 <br/>
 
-## Experience
-
-```
-4+ years Frontend Developer
-```
-
-- **AI Platform Frontend** — React Flow 기반 워크플로우 빌더, WebSocket/SSE 실시간 스트리밍 UI, RAG 지식관리 시스템
-- **Healthcare AI Chatbot** — SSE 기반 실시간 의료 AI 챗봇, 비대면 심리상담 플랫폼, 유전체 데이터 시각화
-- **Game Event Pages** — 대규모 트래픽 프로모션 페이지 다수 개발, GSAP 인터랙티브 애니메이션
-- **Brand & Promo** — 럭셔리 브랜드 스크롤 트리거 애니메이션, E-commerce 프로모션 페이지
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=uiux-ksh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uiux-ksh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" />
-
-</div>
-
-<br/>
-
-## 3D Contribution
-
-<div align="center">
-
-![](./profile-3d-contrib/profile-night-rainbow.svg)
-
-</div>
-
-<br/>
-
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-uiux--ksh-181717?style=flat-square&logo=github)](https://github.com/uiux-ksh)
